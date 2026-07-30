@@ -1,9 +1,21 @@
 img {
-    width: ;
-    300px;
+    width: 300px;
 }
 
+
 header {
-    background-color: blueviolet;
-    color: black;
+    background-color: rgb(6, 231, 70);
+    color: rgba(0, 0, 0, 0.832);
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
+main {
+     background-color:aqua;
+     color: rgba(188, 12, 12, 0.949);
+}
+
+.artigo-autor{
+    font-weight: bold;
 }
