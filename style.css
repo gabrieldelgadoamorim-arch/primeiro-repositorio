@@ -26,3 +26,10 @@ main {
 article {
     display: flex;
 }
+footer{
+    background-color: azure;
+    max: width 800px;
+    text-align: center;
+    max-width: 800px;
+    
+}
